@@ -1,0 +1,8 @@
+D:\Mphasis\Assested Projects\ConAppSelectionSort\ConAppSelectionSort\bin\Debug\ConAppSelectionSort.exe.config
+D:\Mphasis\Assested Projects\ConAppSelectionSort\ConAppSelectionSort\bin\Debug\ConAppSelectionSort.exe
+D:\Mphasis\Assested Projects\ConAppSelectionSort\ConAppSelectionSort\bin\Debug\ConAppSelectionSort.pdb
+D:\Mphasis\Assested Projects\ConAppSelectionSort\ConAppSelectionSort\obj\Debug\ConAppSelectionSort.csproj.AssemblyReference.cache
+D:\Mphasis\Assested Projects\ConAppSelectionSort\ConAppSelectionSort\obj\Debug\ConAppSelectionSort.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Assested Projects\ConAppSelectionSort\ConAppSelectionSort\obj\Debug\ConAppSelectionSort.csproj.CoreCompileInputs.cache
+D:\Mphasis\Assested Projects\ConAppSelectionSort\ConAppSelectionSort\obj\Debug\ConAppSelectionSort.exe
+D:\Mphasis\Assested Projects\ConAppSelectionSort\ConAppSelectionSort\obj\Debug\ConAppSelectionSort.pdb
